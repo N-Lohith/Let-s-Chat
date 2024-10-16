@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283761365217",
+    "project_id": "chat-second-attempt",
+    "storage_bucket": "chat-second-attempt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283761365217:android:eb5f9f4c3b4bcb372227a0",
+        "android_client_info": {
+          "package_name": "com.example.c"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283761365217-t0nbknv75ighpc11mbv6l46shm35cph3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR_HphcsFQyDNzAwRZDhhrSbFVbIM0Ne4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283761365217-t0nbknv75ighpc11mbv6l46shm35cph3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
